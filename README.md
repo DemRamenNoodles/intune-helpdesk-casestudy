@@ -1,6 +1,6 @@
 # Intune Help Desk Case Study
 
-A simulated IT help desk scenario documenting device enrollment, compliance policy enforcement, and endpoint troubleshooting using Microsoft Intune.
+A simulated IT help desk scenario documenting cloud-managed device enrollment, compliance policy enforcement, and endpoint troubleshooting using Microsoft Intune and Entra ID. No on-prem infrastructure — fully cloud-native endpoint management with Azure AD Join.
 
 > 🚧 Work in progress — full write-up coming soon
 
