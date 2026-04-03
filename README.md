@@ -8,7 +8,7 @@ A simulated IT help desk scenario documenting cloud-managed device enrollment, c
 
 ## Scenario
 
-**User:** Jordan Mitchell (new hire) gets locked out of Outlook after her device is flagged as non-compliant by Intune. This case study walks through the full ticket — from the initial report to root cause diagnosis and remediation.
+**User:** Sarah Chen (new hire) gets locked out of Outlook after her device is flagged as non-compliant by Intune. This case study walks through the full ticket — from the initial report to root cause diagnosis and remediation.
 
 ---
 
