@@ -151,7 +151,7 @@ Device compliance detail confirmed it. Corporate Device Baseline back to **Compl
 
 > "Hi Sarah, your email access has been restored. The issue was a security setting on your device. Real-time antivirus protection had been turned off, which triggered our security policy and blocked email access. I've re-enabled it and verified everything is working. Please avoid changing Windows Security settings. If an application is being flagged, submit a ticket and we'll find a safe solution. Let me know if you need anything else before your 2 PM presentation."
 
-**Prevention:** I documented a recommendation to configure Intune remediation scripts that automatically re-enable Defender if it gets disabled, add a grace period in Conditional Access so users get a warning before access is cut, and set up compliance notification emails so users know something's wrong before they're locked out. From a Tier 1 perspective, the fix was my job. The policy improvements are escalation items: document them, pass them up, let the team decide.
+**Prevention:** I documented a recommendation to configure Intune remediation scripts that automatically re-enable Defender if it gets disabled, add a grace period in Conditional Access so users get a warning before access is cut, and set up compliance notification emails so users know something's wrong before they're locked out. Fixing the device was my job. Changing the policies isn't. That's for the team that owns Conditional Access.
 
 ---
 
